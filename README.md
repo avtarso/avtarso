@@ -4,7 +4,7 @@
 - 💞️ I'm looking for collaboration on interesting projects
 - 📫 How to reach me - @avtarso in Telegram, Discord 
 - 😄 Pronouns: if I understood the question correctly, then I am he
-- ⚡ Fun fact: always wanted to connect my life with IT, but I only started last year
+- ⚡ Fun fact: I always wanted to connect my life with IT, but I only started last year
 
 <!---
 avtarso/avtarso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
